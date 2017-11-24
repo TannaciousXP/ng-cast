@@ -2,6 +2,8 @@
 
 Task to build YouTube Video player app using [Angular JS](https://angularjs.org/).
 
+by Peter X. Tan
+
 ## AngularJS is Interesting in a few key ways
 
 - AngularJS uses a mix of standard and custom HTML elements and attributes that transforms standard HTML into HTML with superpowers.
@@ -12,8 +14,6 @@ Task to build YouTube Video player app using [Angular JS](https://angularjs.org/
 
 - Learn AngularJS and learn how to think about web apps as components in Angular.
 - Continue practicing interctions with a REST API (in this case, the [YouTube Data API](https://developers.google.com/youtube/v3/?hl=en))
-
-by Peter X. Tan
 
 ## System Requirements
 
